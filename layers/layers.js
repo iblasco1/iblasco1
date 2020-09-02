@@ -30,7 +30,7 @@ var lyr_Caceres_1 = new ol.layer.Vector({
     <img src="styles/legend/Caceres_1_0.png" /> Teleferico<br />\
     <img src="styles/legend/Caceres_1_1.png" /> Skidder<br />\
     <img src="styles/legend/Caceres_1_2.png" /> Autocargador<br />\
-    <img src="styles/legend/Caceres_1_3.png" /> Tractor Agricola<br />'
+    <img src="styles/legend/Caceres_1_3.png" /> Tractor Agrícola<br />'
         });
 
 lyr_OpenStreetMap_0.setVisible(true);lyr_Caceres_1.setVisible(true);

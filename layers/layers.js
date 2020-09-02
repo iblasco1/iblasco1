@@ -27,7 +27,7 @@ var lyr_Caceres_1 = new ol.layer.Vector({
                 style: style_Caceres_1,
                 interactive: true,
                 'opacity': 0.85,
-    title: 'Caceres<br />\
+    title: 'Equipos<br />\
     <img src="styles/legend/Caceres_1_0.png" /> Teleférico<br />\
     <img src="styles/legend/Caceres_1_1.png" /> Skidder<br />\
     <img src="styles/legend/Caceres_1_2.png" /> Autocargador<br />\
